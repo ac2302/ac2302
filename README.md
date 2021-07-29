@@ -1,4 +1,9 @@
-### Hi there 👋
+- full stack web developer
+- linux enthusiast
+- kotlin + react native
+- ML
+
+Information Technology student at Atharva College Of Engineering
 
 <!--
 **ac2302/ac2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
