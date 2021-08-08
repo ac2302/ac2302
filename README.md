@@ -1,7 +1,7 @@
 - full stack web developer
 - linux enthusiast (I use Arch btw)
 - kotlin + react native
-- AI ML
+- AI and Computer Vision
 
 Information Technology student at Atharva College Of Engineering
 
